@@ -43,3 +43,33 @@ Os técnicos são filtrados de acordo com suas competências, localização geog
 Uma vez selecionado o técnico, é disparada uma comunicação para que este atenda ao chamado, enquanto uma interface permite tanto ao técnico quanto à empresa acompanharem o andamento do serviço. 
 
 O sistema tem como objetivo reduzir o tempo de resposta dos chamados, oferecendo também uma interface para a confirmação da coerência do chamado. As competências dos técnicos são constantemente atualizadas, e caso não haja contato com o técnico escolhido inicialmente, o sistema é capaz de acionar automaticamente outro técnico para o atendimento.
+
+## **Tecnologias a Serem Utilizadas**
+
+1. Backend:
+
+    **Django:** Como framework principal para o desenvolvimento do backend, oferecendo uma estrutura robusta para lidar com roteamento, modelos de dados, autenticação, autorização, e muito mais.
+
+2. Banco de Dados:
+
+    **PostgreSQL:** Um banco de dados relacional poderoso e altamente confiável, oferecendo recursos avançados para garantir a integridade dos dados.
+
+3. Frontend:
+
+    **Django Templates:** Para renderizar as páginas HTML e fornecer uma experiência de usuário dinâmica, você pode usar os templates do Django.
+
+    **JavaScript + AJAX:** Para interações mais dinâmicas na interface do usuário, você pode usar JavaScript junto com chamadas AJAX para atualizações assíncronas de conteúdo.
+
+4.  APIs RESTful:
+
+    **Django Rest Framework (DRF):** Uma extensão popular para o Django que simplifica o desenvolvimento de APIs RESTful, fornecendo serializadores, autenticação, autorização e outras ferramentas úteis.
+
+5. Estilização:
+
+    **Bootstrap:** Um framework CSS popular que fornece componentes e estilos pré-construídos para uma interface de usuário atraente e responsiva.  
+
+6. Gerenciamento de Dependências e Implantação:
+
+    **pipenv:** Para gerenciar as dependências do projeto de forma isolada, você pode usar o pipenv, que combina o gerenciamento de pacotes do pip com o ambiente virtual.
+
+    **Docker:** Para criar contêineres isolados que encapsulam o aplicativo e suas dependências, facilitando a implantação e o escalonamento.
