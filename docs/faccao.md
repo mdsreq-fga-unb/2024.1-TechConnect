@@ -46,7 +46,7 @@
 
 
 <center>
-# _**Membros da Facção**_
+## _**Membros da Facção**_
 
 ### **Rígel**
 
@@ -116,6 +116,19 @@ Ao se unir aos defensores locais, lutou bravamente contra invasores, mas percebe
 Partiu em busca de aliados e encontrou o Escudo de Órion, um grupo de guerreiros lendários. 
 
 Aceito entre eles, Betelgeuse agora viaja pela galáxia, enfrentando o mal e protegendo os inocentes, ciente de que seu destino está entrelaçado com o destino da galáxia.
+
+---
+
+### **Alnitak**
+![Alnilam](imagens/personagens/alnitak.jpeg)
+
+Alnitak cresceu em um mundo tumultuado, marcado por conflitos e injustiças. 
+
+Determinado a superar as adversidades, ele embarcou em uma jornada de autodescoberta pelo universo. 
+
+Após encontrar o Escudo de Órion, viu uma chance de redenção e propósito ao lutar por justiça e proteger os vulneráveis. 
+
+Apesar das cicatrizes emocionais de seu passado, sua determinação em fazer a diferença permaneceu inabalável.
 
 ---
 
