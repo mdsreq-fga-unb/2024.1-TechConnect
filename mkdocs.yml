@@ -1,0 +1,38 @@
+site_name: TechConnect
+
+nav:
+    - Início: index.md
+    - Facção: faccao.md
+    - Missão 1:
+        - Entrega 1 - Seminário: seminario.md
+        - Entrega 2 - Visão de Produto e Projeto:
+            - Produto: produto.md
+            - Projeto: projeto.md
+            - Processo de Desenvolvimento de Software: processo.md
+            - Lições aprendidas - Unidade 1: licao1.md
+        - Vídeo das Entregas: video.md
+
+    - Missão 2: missao2.md
+    - Missão 3: missao3.md
+    - Missão 4: missao4.md
+    - Histórico de Versões: versoes.md
+    - Sprints: 
+        - Sprint 1: sprint1.md
+        - Sprint 2: sprint2.md
+        - Sprint 3: sprint3.md
+
+
+theme: 
+    name: material
+
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
