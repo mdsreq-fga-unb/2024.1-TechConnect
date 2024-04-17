@@ -22,3 +22,5 @@ Bem-vindo ao nosso projeto da matéria Requisitos de Software, da Universidade d
 |<img src="https://github.com/Marcosatc147.png" alt="drawing" width="100px"/> |Betelgeuse |Marcos Antônio Teles De Castilhos| [Marcosatc147](https://github.com/Marcosatc147)|
 |<img src="https://github.com/Pedrin0030.png" alt="drawing" width="100px"/> |Orionis |Pedro Paulo Santos Almeida| [Pedrin0030](https://github.com/Pedrin0030)|
 |<img src="https://github.com/ViictorHugoo.png" alt="drawing" width="100px"/> |Alnitak |Victor Hugo Rodrigues Guimarães| [ViictorHugoo](https://github.com/ViictorHugoo)|
+
+</center>

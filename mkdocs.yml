@@ -10,10 +10,16 @@ nav:
             - Projeto: projeto.md
             - Processo de Desenvolvimento de Software: processo.md
             - Lições aprendidas - Unidade 1: licao1.md
+        - Vídeo das Entregas: video.md
 
     - Missão 2: missao2.md
     - Missão 3: missao3.md
     - Missão 4: missao4.md
+    - Histórico de Versões: versoes.md
+    - Sprints: 
+        - Sprint 1: sprint1.md
+        - Sprint 2: sprint2.md
+        - Sprint 3: sprint3.md
 
 
 theme: 
