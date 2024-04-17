@@ -1,6 +1,6 @@
 # **Histórico de Versões**
 
-### Versão 1.0.0 (Data)
+### Versão 1.0.0 (17/04/2024)
 
 #### Adições
 - Implementação da página inicial do projeto.
