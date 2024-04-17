@@ -40,7 +40,7 @@
 | Acompanhamento das Atividades em Andamento                      | Equipe do Projeto   | Diário        | - Daily escrita                           |
 | Acompanhamento dos Riscos, Compromissos, Ações Pendentes, Indicadores | Equipe do projeto   | Semanal       | - Ata de reunião; Relatório de situação do projeto|
 | Acompanhamento do cliente das atividades em andamento           | Equipe de projeto; Cliente    | Quinzenal     | - Feedback ; Aceitação|
-| Comunicar situação do projeto                                   | Equipe do projeto   | Quinzenal     | - Ata de reunião; Relatório de Situação do Projeto|
+| Comunicar situação do projeto                                   | Equipe do projeto; Prof;   | Quinzenal     | - Ata de reunião; Relatório de Situação do Projeto|
 
 ## **Gerenciamento de Risco**
 
