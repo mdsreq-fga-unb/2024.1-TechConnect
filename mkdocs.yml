@@ -12,7 +12,7 @@ nav:
 
 
 theme: 
-    name: material
+    name: dracula
 
 
 markdown_extensions:
@@ -25,5 +25,3 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
 
-plugins:
-    - glightbox
