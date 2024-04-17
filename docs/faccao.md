@@ -119,15 +119,15 @@ Aceito entre eles, Betelgeuse agora viaja pela galáxia, enfrentando o mal e pro
 
 ---
 
-### **Alnitak**
-![Alnitak](imagens/personagens/alnitak.jpeg)
+### **Alnilam**
+![Alnilam](imagens/personagens/alnilam.jpeg)
 
-Alnitak cresceu em um mundo tumultuado, marcado por conflitos e injustiças. 
+Alnilam nasceu em um planeta marcado por tensões políticas entre facções rivais, testemunhando os horrores da guerra desde jovem.
 
-Determinado a superar as adversidades, ele embarcou em uma jornada de autodescoberta pelo universo.
+Após perder tudo em um dos ataques, escolheu buscar a paz através do diálogo e negociação. 
 
-Após encontrar o Escudo de Órion, viu uma chance de redenção e propósito ao lutar por justiça e proteger os vulneráveis. 
+Sua habilidade diplomática excepcional o levou a negociar um acordo de paz entre as facções, trazendo prosperidade para seu planeta. 
 
-Apesar das cicatrizes emocionais de seu passado, sua determinação em fazer a diferença permaneceu inabalável.
+Reconhecido pela líder do Escudo de Órion, Alnilam foi convidado a se juntar à equipe, trazendo sua visão de paz e justiça para a galáxia.
 
 
