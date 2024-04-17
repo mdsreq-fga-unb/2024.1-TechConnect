@@ -21,9 +21,8 @@ nav:
         - Sprint 2: sprint2.md
         - Sprint 3: sprint3.md
 
-
-theme: 
-    name: material
+theme:
+    name: slate
 
 
 markdown_extensions:
