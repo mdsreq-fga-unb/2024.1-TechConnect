@@ -1,7 +1,7 @@
 site_name: TechConnect
 
 nav:
-    - Início: inicio.md
+    - Início: index.md
     - Facção: faccao.md
     - Missão 1:
         - Entrega 1 - Seminário: seminario.md
