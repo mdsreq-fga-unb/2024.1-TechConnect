@@ -12,7 +12,7 @@ nav:
 
 
 theme: 
-    name: dracula
+    name: material
 
 
 markdown_extensions:
