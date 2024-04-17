@@ -1,0 +1,29 @@
+site_name: TechConnect
+
+nav:
+    - Início: index.md
+    - Facção: faccao.md
+    - Missão 1:
+        - Entrega 1 - Seminário: seminario.md
+        - Entrega 2 - Visão de Produto e Projeto: visaoPP.md
+    - Missão 2: missao2.md
+    - Missão 3: missao3.md
+    - Missão 4: missao4.md
+
+
+theme: 
+    name: dracula
+
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+plugins:
+    - glightbox
