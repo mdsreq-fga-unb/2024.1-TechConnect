@@ -5,12 +5,12 @@
 
 | Papel                    | Atribuições                                                                | Responsável | Participantes                |
 |--------------------------|-----------------------------------------------------------------------------|-------------|------------------------------|
-| Desenvolvedor Front-end | Codificar o projeto; realizar refatoração                   |             | Arthur, Diego, Gabriel, Luiza, Marcos, Pedro, Victor |
-| Desenvolvedor Back-end  | Codificar o backend; realizar refatoração                                  |             | Arthur, Diego, Gabriel, Luiza, Marcos, Pedro, Victor |
-| Analista de Testes       | Codificar testes unitários e testes de integração                         |             | Arthur, Diego, Gabriel, Luiza, Marcos, Pedro, Victor |
-| Dono do Produto          | Atualizar o escopo do produto; organizar o escopo das sprints; validar as entregas | Luiza       | Luiza                        |
-| Analista de Qualidade    | Garantir a qualidade do produto; garantir o cumprimento do conceito de pronto; realizar inspeções de código |             |              |
-|Cliente|   |   | Mauro Moura|
+| Desenvolvedor Front-end | Codificar o projeto; realizar refatoração|       Arthur      | Arthur, Diego, Gabriel |
+| Desenvolvedor Back-end  | Codificar o backend; realizar refatoração|      Pedro       | Marcos, Pedro, Victor |
+| Analista de Testes      | Codificar testes unitários e testes de integração|      Luiza       | Arthur, Victor |
+| Dono do Produto         | Atualizar o escopo do produto; organizar o escopo das sprints; validar as entregas | Luiza       | Luiza                        |
+| Analista de Qualidade   | Garantir a qualidade do produto; garantir o cumprimento do conceito de pronto; realizar inspeções de código |    Victor         |      Victor        |
+|Cliente|   | Mauro Moura  | VantageIT|
 
 
 ## **Planejamento das Fases e/ou Interações do Projeto**
