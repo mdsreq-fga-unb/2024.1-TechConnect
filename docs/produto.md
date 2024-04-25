@@ -18,17 +18,17 @@ Portanto, os desafios enfrentados pela empresa decorrem principalmente do contro
 
 ## **Declaração de Posição do Produto**
 
-O produto se destaca por oferecer uma solução ágil e automatizada para a comunicação e coordenação de técnicos para realizar um determinado serviço, eliminando a necessidade da maior parte dos processos manuais. 
+A ideia do produto é oferecer uma solução ágil e automatizada para a comunicação e coordenação de técnicos para realizar um determinado serviço, eliminando a necessidade da maior parte dos processos manuais.
 
-Através de uma interface intuitiva e eficiente, o produto permite localizar rapidamente técnicos disponíveis, estabelecer contato imediato e acompanhar o progresso dos serviços em tempo real. Além disso, oferece funcionalidades de gestão de prazos e notificações para garantir a entrega pontual dos serviços, evitando consequências graves para a empresa, como atrasos nas entregas, danos à reputação e multas elevadas.
+Através de uma interface, busca-se localizar com eficiência a disponibilidade de técnicos e, em seguida, estabelecer contato com tais prestadores de serviço, além de promover a possibilidade de acompanhamento do progresso dos serviços em tempo real. Além disso, a ideia é disponibilizar funcionalidades de gestão de prazos e notificações para garantir a entrega pontual dos serviços, evitando consequências graves para a empresa, como atrasos nas entregas, danos à reputação e multas elevadas.
 
-O cliente-alvo é uma empresa especializada na entrega e manutenção de soluções de software e hardware que enfrentam desafios na logística de técnicos para o atendimento de chamados abertos pelos clientes da empresa. A empresa busca uma solução tecnológica que simplifique e agilize o processo de comunicação com seus técnicos, permitindo atender às demandas de forma rápida e eficiente.
+O cliente-alvo é uma empresa especializada na entrega e manutenção de soluções de software e hardware que enfretam desafios na logística de técnicos para o atendimento de chamados abertos pelos clientes da empresa. A empresa busca uma solcução tecnológica que simplifique e agiliza o todos os processos envolvidos na prestação de serviço.
 
-O produto se diferencia dos concorrentes pela sua abordagem abrangente e integrada para a gestão de técnicos. Enquanto muitas soluções do mercado se concentram apenas em aspectos específicos, como localização de profissionais disponíveis, o nosso produto irá oferecer uma solução completa que abrange desde a busca e contato inicial com os técnicos até o acompanhamento em tempo real do processo dos serviços.
+O profuto busca se diferenciar dos concorrentes na abordagem mais abrangeente do processo e de forma mais integrada para a gestão do técnico. Enquanto muitas soluções do mercado se concentram apenas em aspectos específicos, a proposta ndessa solução é apresentar de forma mais completa desde a busca e contato inicial com os técnicos até o acompanhamento em tempo real dos processos dos serviços.
 
-Além disso, o produto se destaca pela sua facilidade de uso e interface intuitiva, que permite uma integração suave com os próprios processos existentes na empresa. Com funcionalidades de gestão de prazos, notificações automáticas e relatórios detalhados dos serviços para ambas as partes do processo, o produto proporciona uma experiência superior aos usuários, ajudando-os a otimizar seus processos operacionais e aprimorar a qualidade de serviço oferecido aos clientes.
+Com funcionalidades de gestão de prazos, notificações automáticas e relatórios detalhados dos serviços para ambas as partes do processo, o produto buscará proporcionar uma melhor experiência aos usuários, ajudando-os a otimizar seus processos operacionais e aprimorar a qualidade de serviço oferecido aos clientes.
 
-![Tablea Declaração do Produto](imagens/produto/tabelaDeclaracaoProduto.jpeg)
+![Tabela Declaração do Produto](imagens/produto/tabelaDeclaracaoProduto.jpeg)
 
 ## **Objetivos do Produto**
 
