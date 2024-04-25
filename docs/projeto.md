@@ -5,11 +5,11 @@
 
 | Papel                    | Atribuições                                                                | Responsável | Participantes                |
 |--------------------------|-----------------------------------------------------------------------------|-------------|------------------------------|
-| Desenvolvedor Front-end | Codificar o projeto; realizar refatoração|       Arthur      | Arthur, Diego, Gabriel |
-| Desenvolvedor Back-end  | Codificar o backend; realizar refatoração|      Pedro       | Marcos, Pedro, Victor |
-| Analista de Testes      | Codificar testes unitários e testes de integração|      Luiza       | Arthur, Victor |
-| Dono do Produto         | Atualizar o escopo do produto; organizar o escopo das sprints; validar as entregas | Luiza       | Luiza                        |
-| Analista de Qualidade   | Garantir a qualidade do produto; garantir o cumprimento do conceito de pronto; realizar inspeções de código |    Victor         |      Victor        |
+| Engenheiro de Requisitos | Responsável por liderar e coordenar todas as atividades relacionadas à engenharia de requisitos|       Arthur      | Arthur, Diego, Gabriel |
+| Analista de Negócios | Responsável por entender o contexto do negócio e as necessidades dos usuários finais|      Pedro       | Marcos, Pedro, Victor |
+| Arquiteto de Sistemas  | Responsável por definir a arquitetura de alto nível do sistema |      Luiza       | Arthur, Victor |
+| Desenvolvedores         | Responsável por desempenhar um papel importante na validação dos requisitos durante a implementação do sistema | Luiza       | Luiza                        |
+| Testadores         |  Responsáveis por garantir que o sistema atenda aos requisitos especificados | Pedro |           |
 |Cliente|   | Mauro Moura  | VantageIT|
 
 
