@@ -19,6 +19,10 @@ nav:
     - Missão 2: missao2.md
     - Missão 3: missao3.md
     - Missão 4: missao4.md
+    - Artefatos:
+        - Relátorio de Status do Projeto: relatorioStatusProjeto.md
+        - Atas de Reunião da Equipe: ataEquipe.md
+        - Atas de Reunião com Cliente: ataCliente.md
     - Histórico de Versões: versoes.md
     - Sprints: 
         - Sprint 1: sprint1.md
