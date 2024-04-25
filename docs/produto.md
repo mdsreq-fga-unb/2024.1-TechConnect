@@ -4,17 +4,13 @@
 
 Uma empresa nacional especializada na entrega de soluções de software e hardware mantém um extenso cadastro de técnicos em seu banco de dados, os quais são encarregados de realizar reparos requisitados por seus clientes. Esses serviços frequentemente requerem prazos de execução curtos.
 
-No momento em que um chamado é aberto, a empresa precisa localizar um técnico em sua base de dados e estabelecer contato para averiguar sua disponibilidade para a execução do serviço. No entanto, a empresa enfrenta uma lacuna crítica, pois não dispõe de um sistema ágil para a comunicação com seus técnicos.
+Ao abrir um chamado, a empresa precisa localizar um técnico em sua base de dados e estabelecer contato para averiguar sua disponibilidade para a execução do serviço. Atualmente, a empresa enfrenta dificuldades devido ao controle manual de análise e demanda de serviços. Todas as operações são conduzidas manualmente por meio de uma planilha Excel, o que cria ineficiências e prolonga o tempo necessário para o processo.
 
-Atualmente, todas as operações são conduzidas manualmente através de uma planilha Excel, o que contribui para uma maior burocracia e prolongamento do tempo necessário para o processo. Para entrar em contato com os técnicos, a empresa realiza uma série de chamadas telefônicas até localizar um profissional disponível, resultando em um considerável desperdício de tempo e, por conseguinte, retardando a solução das demandas dos clientes.
+A comunicação com os técnicos é realizada por meio de chamadas telefônicas, que podem consumir tempo e atrasar a resolução das demandas dos clientes. A empresa precisa manter prazos de atendimento rigorosos para evitar danos à reputação e penalidades financeiras.
 
-Adicionalmente, a empresa é obrigada a cumprir estritamente os prazos de atendimento dos chamados, para evitar repercussões graves, como danos à sua reputação e possíveis penalidades monetárias substanciais.
+Além disso, a empresa enfrenta desafios significativos na organização da comunicação com os técnicos para verificar sua disponibilidade e compromisso com os serviços. A abordagem manual, que requer contatos individuais com cada técnico, resulta em consumo excessivo de tempo e recursos. 
 
-Por fim, a empresa ainda enfrenta a carência de um sistema para comunicação regular, seja semanal ou mensal, com os técnicos, a fim de verificar continuamente sua disponibilidade e comprometimento com a prestação de serviços. 
-
-Este déficit resulta na necessidade de designar um funcionário para realizar contatos individuais com cada técnico cadastrado na planilha Excel, a fim de confirmar sua viabilidade para novos serviços. Tal processo consome recursos consideráveis, tanto em termos financeiros quanto de tempo.
-
-Todos esses desafios surgem da falta de uma interface que facilite e automatize a troca de informações entre os técnicos e a empresa.
+Portanto, os desafios enfrentados pela empresa decorrem principalmente do controle manual de análise e demanda de serviços. Uma possível solução pode ser a implementação de uma ferramenta ou sistema que automatize a troca de informações entre a empresa e seus técnicos, facilitando a gestão de demandas e a alocação eficiente dos profissionais.
 
 ### _Diagrama espinha de peixe_
 
