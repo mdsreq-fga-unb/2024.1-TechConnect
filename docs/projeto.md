@@ -19,18 +19,28 @@
 |--------|-----------|-------------------|-------------|----------|
 | Sprint 1 | Definição do Produto; Reunião com Cliente | Lista de Requisitos primários | 22/03/24 | 04/04/24 |
 | Sprint 2 | Documentação | Documento de Visão do Produto e Projeto parcial | 05/04/24 | 11/04/24 |
-| Sprint 3 | Revisão e finalização do Documento de Visão do Produto e Projeto; Construção do GitPages do Projeto | Documento de Visão do Produto e Projeto; GitPages do Projeto | 12/04/24 | 18/04/24 |
-| Sprint 4 | Levantamento de Requisitos; Reunião com o Cliente | Lista de Requisitos detalhada | 19/04/24 | 25/04/24 |
-| Sprint 5 | Definição do Backlog do Produto | Backlog do Produto | 26/04/24 | 02/05/24 |
-| Sprint 6 | Declaração de Requisitos | Requisitos estruturados em Épicos, Features e User Stories. | 03/05/24 | 09/05/24 |
-| Sprint 7 | Atualização do documento de Visão; Reunião com o Cliente | Documento de Visão do Produto e Projeto atualizado; Definição do MVP | 10/05/24 | 16/05/24 |
-| Sprint 8 | Prototipação | Protótipos de telas | 17/05/24 | 23/05/24 |
-| Sprint 9 | Refinamento do Backlog; Reunião de validação com o Cliente | Backlog do Produto refinado | 24/05/24 | 30/05/24 |
-| Sprint 10 | Priorização do Backlog; Preparação do ambiente de desenvolvimento | Backlog do Produto priorizado | 31/05/24 | 06/06/24 |
-| Sprint 11 | Atualização do documento de Visão; Desenvolvimento | Documento de Visão do Produto e Projeto atualizado; US | 07/06/24 | 13/06/24 |
-| Sprint 12 | Desenvolvimento | US | 14/06/24 | 20/06/24 |
-| Sprint 13 | Desenvolvimento | US | 21/06/24 | 27/06/24 |
-| Sprint 14 | Atualização do documento de Visão; Desenvolvimento; Reunião de validação com o Cliente | Documento de Visão do Produto e Projeto atualizado; US Entrega e apresentação do MVP | 28/06/24 | 04/07/24 |
+| Sprint 3 | Revisão e finalização do Documento de Visão do Produto e Projeto; Construção do GitPages do Projeto | Documento de Visão do Produto e Projeto GitPages do Projeto | 12/04/24 | 18/04/24 | Fim da Missão 1 |
+| Sprint 4 | Resolver Issues apontadas na Missão 1 | Entrega das Issues apontadas na Missão 1 | 19/04/24 | 25/04/24 |
+| Sprint 5 | Levantamento de Requisitos; Reunião com o Cliente | Lista de Requisitos detalhada | 26/04/24 | 02/05/24 |
+| Retro\Rev 1 | Retro\Review dos Requisitos levantados | Inicio da construção do backlog |02/05/24| 02/05/24 |
+| Sprint 6 | | | 03/05/24 | 09/05/24 |
+| Retro\Rev 2 | | 09/05/24 | 09/05/24 |
+| Sprint 7 | | | 10/05/24 | 16/05/24 | Fim da Missão 2 |
+| Retro\Rev 3 | | | 15/05/24 | 15/04/24 |
+| Sprint 8 | | | 17/05/24 | 23/05/24 |
+| Retro\Rev 4 | | | 23/05/24 | 23/05/24 |
+| Sprint 9 | | | 24/05/24 | 30/05/24 |
+| Retro\Rev 5 | | | 30/05/24 | 30/05/24 |
+| Sprint 10 | | | 31/05/24 | 06/06/24 |
+| Retro\Rev 6 | | | 06/06/24 | 06/06/24 |
+| Sprint 11 | | | 07/06/24 | 13/06/24 | Fim da Missão 3 |
+| Retro\Rev 7 | | | 13/06/24 | 13/06/24 |
+| Sprint 12 | | | 14/06/24 | 20/06/24 |
+| Retro\Rev 8 | | | 20/06/24 | 20/06/24 |
+| Sprint 13 | | | 21/06/24 | 27/06/24 |
+| Retro\Rev 9 | | | 27/06/24 | 27/06/24 |
+| Sprint 14 | | | 28/06/24 | 04/07/24 | Fim da Missão 4 |
+| Retro\Rev 10 | | | 03/07/24 | 04/07/24 |
 
 
 ## **Matriz de Comunicação**
